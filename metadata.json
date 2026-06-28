@@ -1,0 +1,6 @@
+{
+  "name": "cesogrenme",
+  "description": "Tamamen yerel ve güvenli doküman analizi, akıllı özet ve kişiselleştirilmiş test/quiz hazırlama uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
